@@ -11,6 +11,4 @@
 - [x] Letter Opener
 
 ## Notes
-*Use this space to record your findings and deductions...*
-
-Location of the crime is still unknown - the room must have been empty when it happened...
+Despues de explorar varias zonas encontre que la locacion fue en el cafe, en shops. No encontre el artista bi el Magnifying Glass asi que fue el.|
