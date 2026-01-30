@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Artist
-- [ ] The Librarian
+- [x] The Librarian
 - [x] The Baker
 
 ## Weapons
