@@ -6,7 +6,7 @@
 - [x] The Baker
 
 ## Weapons
-- [ ] Brass Candlestick
+- [x] Brass Candlestick
 - [ ] Magnifying Glass
 - [x] Letter Opener
 
